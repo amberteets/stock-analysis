@@ -20,7 +20,7 @@ The code represents negative and positive returns visually by applying condition
 
       Cells(i, 3).Interior.Color = vbRed
 
-     End If
+    End If
 
 #### Fig. 1: All Stocks Analysis (2017)
 
