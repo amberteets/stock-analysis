@@ -27,7 +27,16 @@ The code represents negative and positive returns visually by applying condition
 #### Fig. 2: All Stocks Analysis (2018)
 
 ### Script Execution
-as well as the execution times of the original script and the refactored script.
+
+The refactored script reduced execution time from the original script by an average of 99.97% for 2017 and 2018.
+
+#### Fig. 3.1: Original Execution Time (2017)
+
+#### Fig. 3.2: Original Execution Time (2018)
+
+#### Fig. 4.1: Refactored Execution Time (2017)
+
+#### Fig. 4.2: Refactored Execution Time (2018)
 
 ## Summary
 
