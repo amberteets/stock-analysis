@@ -24,7 +24,11 @@ The code represents negative and positive returns visually by applying condition
 
 #### Fig. 1: All Stocks Analysis (2017)
 
+![Stock Results (2017)](https://github.com/amberteets/stock-analysis/blob/main/Resources/Stock_Results_2017.png)
+
 #### Fig. 2: All Stocks Analysis (2018)
+
+![Stock Results (2018)](https://github.com/amberteets/stock-analysis/blob/main/Resources/Stock_Results_2018.png)
 
 ### Script Execution
 
@@ -32,11 +36,19 @@ The refactored script reduced execution time from the original script by an aver
 
 #### Fig. 3.1: Original Execution Time (2017)
 
+![Original Execution (2017)](https://github.com/amberteets/stock-analysis/blob/main/Resources/Original_VBA_Challenge_2017.png)
+
 #### Fig. 3.2: Original Execution Time (2018)
+
+![Original Execution (2018)](https://github.com/amberteets/stock-analysis/blob/main/Resources/Original_VBA_Challenge_2018.png)
 
 #### Fig. 4.1: Refactored Execution Time (2017)
 
+![Refactored Execution (2017)](https://github.com/amberteets/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
 #### Fig. 4.2: Refactored Execution Time (2018)
+
+![Refactored Execution (2018)](https://github.com/amberteets/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ## Summary
 
